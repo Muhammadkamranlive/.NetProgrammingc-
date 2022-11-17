@@ -1,0 +1,8 @@
+D:\C#\WeekTow\bin\Debug\WeekTow.exe.config
+D:\C#\WeekTow\bin\Debug\WeekTow.exe
+D:\C#\WeekTow\bin\Debug\WeekTow.pdb
+D:\C#\WeekTow\obj\Debug\WeekTow.csproj.AssemblyReference.cache
+D:\C#\WeekTow\obj\Debug\WeekTow.csproj.SuggestedBindingRedirects.cache
+D:\C#\WeekTow\obj\Debug\WeekTow.csproj.CoreCompileInputs.cache
+D:\C#\WeekTow\obj\Debug\WeekTow.exe
+D:\C#\WeekTow\obj\Debug\WeekTow.pdb
