@@ -11,12 +11,12 @@ namespace WeekTow._04_Arrays
     {
 
 
-        static void Main(string[] args)
+        void Main(string[] args)
         {
             //Array Declaration style of the single  dimensional arrays
             int[] myArray= new int[] { 1, 2, 3 };
             int[] secondArrayStyle = { 1, 2, 3, 3, 3, 3, 3, 3, 3 };
-            var mayArrayUingVar = new String[] { "kami", "ali", "ahamed" };
+            var mayArrayUingVar = new String[] { "kamran", "ali", "ahamed" };
             //Array declaration style of the 2d Array
 
             int[,] number = { { 1212, 3, 33 }, { 23, 34, 4 } };

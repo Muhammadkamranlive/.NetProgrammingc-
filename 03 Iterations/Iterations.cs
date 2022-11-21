@@ -10,7 +10,7 @@ namespace WeekTow._03Iterations
 {
     internal class Iterations
     {
-        void Main (string[] args)
+      private  void main (string[] args)
         {
             //The while loop loops through a block of code as long as a specified condition is True:
             int number = 0;
